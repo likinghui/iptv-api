@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-27 08:58:02,http://r.jdshipin.com/qClQf
+2026-08-28 04:07:00,http://r.jdshipin.com/qClQf
 
 🌊港·澳·台,#genre#
 翡翠台,http://r.jdshipin.com/qClQf
@@ -860,6 +860,7 @@ CCTV-5+,https://migu.188766.xyz/?migutoken=73b769be6d67b8b67201ec34bfc33c65&id=C
 风云足球,https://hls-gateway.vpstv.net/streams/708859.m3u8
 风云足球,http://www.qfly9236.cn:8888/rtp/239.253.92.110:8061
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
 魅力足球,https://hls-gateway.vpstv.net/streams/708839.m3u8
 魅力足球,https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-4.m3u8
 魅力足球,https://stream1.freetv.fun/mei-li-zu-qiu-1.m3u8
